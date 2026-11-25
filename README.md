@@ -8,7 +8,6 @@ Interessada em **programação e cibersegurança**.
 
 ##  Sobre mim
 
-* Estudando Desenvolvimento Web e Segurança Digital
 * Sempre aprendendo coisas novas
 
 ---
